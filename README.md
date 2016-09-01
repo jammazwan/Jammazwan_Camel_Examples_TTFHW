@@ -34,6 +34,7 @@
 
   * [Whitepaper on why Camel can be a bear to learn, and how to make it easier](https://betterologist.net/2016/05/months-to-learn-camel/)
   * [What is _integration code_?](http://martinfowler.com/books/eip.html)
+  * [How the sausage is made: **_jammazwan.maker_** code generation](https://github.com/jammazwan/jammazwan.maker)
   
 ---
 
