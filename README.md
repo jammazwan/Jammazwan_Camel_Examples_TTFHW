@@ -10,7 +10,7 @@
 
 Usage: **_Main contents/index for Jammazwan Github projects_**
 
-    *Jammazwan is for making Camel so easy to use, that you have no excuse for re-inventing your own stupid integration code, like so many of us have done for decades, including especially the author of Jammazwan :(*
+   *Jammazwan is for making Camel so easy to use, that you have no excuse for re-inventing your own stupid integration code, like so many of us have done for decades, including especially the author of Jammazwan :(*
 
 ---
 
