@@ -2,7 +2,7 @@
 | --- | --- | --- |
 |<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/pete-300x297.jpg" alt="pete" width="116" height="115" />|<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/jammazwanPhotoSmall.png" alt="jammazwanPhotoSmall" width="200" height="116" />|[<img class="style-svg" src="https://betterologist.net/wp-content/uploads/2016/05/jamzVid1.png" alt="about" width="115" height="115" />](https://youtu.be/vea51DzmXyA)|
 
-### Jammazwan Camel Examples - Table of Contents
+# Jammazwan Camel Examples - Table of Contents
 
    *Jammazwan is for making Camel so easy to use, that you have __no excuse for re-inventing__ your own stupid integration code, like so many of us have done for decades, including especially the author of Jammazwan :(*
    
