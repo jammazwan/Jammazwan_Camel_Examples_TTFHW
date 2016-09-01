@@ -10,30 +10,32 @@
 
 Usage: **_Main contents/index for Jammazwan Github projects_**
 
-The basic idea of Jammazwan is to make Camel so easy to use, that you have no excuse for re-inventing your own stupid integration code, like so many of us have done for decades, including especially the author of Jammazwan :(
+    *Jammazwan is for making Camel so easy to use, that you have no excuse for re-inventing your own stupid integration code, like so many of us have done for decades, including especially the author of Jammazwan :(*
 
 ---
 
 ### Fast Links/Usage:
 
-99% of the time, you would come to Jammazwan to **_find a Camel use case, and get a 60 second [TTFHW](http://www.programmableweb.com/news/six-ways-to-accelerate-time-to-first-hello-world/2012/07/31#apiu)_**, for that use case.
+99.9% of the time, you would come to Jammazwan to **_find a Camel use case, and get a 60 second [TTFHW](http://www.programmableweb.com/news/six-ways-to-accelerate-time-to-first-hello-world/2012/07/31#apiu)_**, for that use case.
 
   * [Scan through use cases to find closest Camel TTFHW](https://github.com/jammazwan/jammazwan.x_index)
   
-1% of visitors might want to round out their already advanced Camel skillset
+0.1% of visitors might want to round out their already advanced Camel skillset
 
  * [Check out the Jammazwan 100 study exercises](https://github.com/jammazwan/jammazwan.100)
+ 
+ Jammazwan 100 was created to study for the Red Hat Camel Certification.
 
 ---
 
-### Also
+### Also:
 
- * [Jammazwan x__project FAQ](https://betterologist.net/2016/06/jammazwan-faq/)
+ * [Jammazwan FAQ](https://betterologist.net/2016/06/jammazwan-faq/)
  * [Intro blog on Jammazwan by author](https://betterologist.net/2016/05/jammazwan-projects-for-learning-apache-camel/)
 
-### Odd/offbeat links
+### Odd/offbeat links:
 
-  * [Whitepaper on why Camel can be a bear to learn and how to make it easier](https://betterologist.net/2016/05/months-to-learn-camel/)
+  * [Whitepaper on why Camel can be a bear to learn, and how to make it easier](https://betterologist.net/2016/05/months-to-learn-camel/)
   
 ---
 
