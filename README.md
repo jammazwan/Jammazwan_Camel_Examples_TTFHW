@@ -1,6 +1,6 @@
 # Jammazwan Camel Examples - Table of Contents
 
-   *Jammazwan is for making Camel so easy to use, that you have __no excuse for re-inventing__ your own stupid integration code, like so many of us have done for decades, including especially the author of Jammazwan :(*
+   *Jammazwan is for making Camel so easy to use, that you have __no excuse for re-inventing__ your own lame integration code, like most of us have done for decades, including especially the author of Jammazwan :(*
    
 "Jammazwan" [is Hindi](href="https://books.google.com/books?id=_kWROaer5UsC&amp;pg=PA1138&amp;lpg=PA1138&amp;dq=jammazwan+camel+keeper+hindi&amp;source=bl&amp;ots=7FaF5BXK_F&amp;sig=Cg-U5ORP3dHrFycaCFvo34GdpZ0&amp;hl=en&amp;sa=X&amp;ved=0ahUKEwj8v4OV3YbNAhVjpIMKHSYUB_oQ6AEIHDAA#v=onepage&amp;q=jammazwan%20camel%20keeper%20hindi&amp;f=false) for "camel keeper", and is [explained in this blog](https://betterologist.net/2016/05/jammazwan-projects-for-learning-apache-camel/).
 
@@ -33,6 +33,7 @@
 ### Odd/offbeat links:
 
   * [Whitepaper on why Camel can be a bear to learn, and how to make it easier](https://betterologist.net/2016/05/months-to-learn-camel/)
+  * [What is _integration code_?](http://martinfowler.com/books/eip.html)
   
 ---
 
